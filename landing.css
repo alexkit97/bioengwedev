@@ -1,0 +1,14 @@
+body {
+    display: block;
+    margin: 80px;
+    text-align: center;
+}
+
+/*calling class*/
+.loginbutton {
+     /*html color codes*/
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 15px 15px 15px;
+}
